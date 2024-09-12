@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left"><br>I am really keen on JS Web Development. My favourite library is ReactJS. I spend my time on expanding my knowledge and studying about JS and ReactJS  <br>- 🔭 I’m currently working on Shopping Cart<br>- 📚 I'm currently improving my Web Development skills especially ReactJS<br>- 💬 I am keen on coding<br>- 📫 How to reach me: nikolay98988@abv.bg</p>
+<p align="left"><br><br>- 🔭 I’m currently working on Shopping Cart<br>- 📚 I'm currently improving my Web Development skills especially ReactJS<br>- 💬 I am keen on coding<br>- 📫 How to reach me: nikolay98988@abv.bg</p>
 
 ###
 
