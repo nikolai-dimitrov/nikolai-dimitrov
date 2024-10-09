@@ -24,7 +24,7 @@
 
 <p>
  <br> { </br>
-  <br> languages: ["JavaScript", "Python"]; </br>
+  <br padding-left="20px"> languages: ["JavaScript", "Python"]; </br>
 	 <br> backend: { </br>
 		frameworks: ["ExpressJS", "Django"];
 		libraries: ["Mongoose", "Django REST Framework"];
