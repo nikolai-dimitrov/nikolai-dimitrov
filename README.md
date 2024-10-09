@@ -22,20 +22,8 @@
 
 ###
 
-<p>
- <br> { </br>
-  <br padding-left="20px"> languages: ["JavaScript", "Python"]; </br>
-	 <br> backend: { </br>
-		frameworks: ["ExpressJS", "Django"];
-		libraries: ["Mongoose", "Django REST Framework"];
-	}
-	frontend: {
-		libraries: ["ReactJS"];
-		others: ["HTML5", "CSS3"];
-	}
-	other: ["Docker", "Git", "Handlebars"];
-}
-</p>
+<p align="left">{<br padding="20px">languages: ["JavaScript", "Python"],<br>	backend: ["NodeJS", "ExpressJS", "MongoDB", "Django" ,"Django REST Framework"],<br>	frontend: ["ReactJS", "HTML5", "CSS3"],<br>	other: ["Docker", "Git", "Terraform"]<br>}</p>
+
 
 ###
 
