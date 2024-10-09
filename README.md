@@ -13,14 +13,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nikolai-dimitrov-01a3b5262/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nikolai-dimitrov.nikolai-dimitrov&"  />
 </div>
 
@@ -30,7 +22,20 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m currently working on my Calorie Diary project<br>- 📚 I'm currently improving my Web Development skills, especially ReactJS<br>- 💬 I'm keen on coding<br>- 📫 How to reach me: nikolay98988@abv.bg</p>
+<p>
+  {
+	languages: ["JavaScript", "Python"];
+	backend: {
+		frameworks: ["ExpressJS", "Django"];
+		libraries: ["Mongoose", "Django REST Framework"];
+	}
+	frontend: {
+		libraries: ["ReactJS"];
+		others: ["HTML5", "CSS3"];
+	}
+	other: ["Docker", "Git", "Handlebars"];
+}
+</p>
 
 ###
 
