@@ -22,7 +22,7 @@
 
 ###
 
-<p padding="20px" align="left">{<br>languages: ["JavaScript", "Python"],<br>	backend: ["NodeJS", "ExpressJS", "MongoDB", "Django" ,"Django REST Framework"],<br>	frontend: ["ReactJS", "HTML5", "CSS3"],<br>	other: ["Docker", "Git", "Terraform"]<br>}</p>
+<p padding="20px" align="left">{<br>languages: ["JavaScript", "Python"],<br>	backend: ["NodeJS", "ExpressJS", "MongoDB", "Django", "Django REST"],<br>	frontend: ["ReactJS", "HTML5", "CSS3"],<br>	other: ["Docker", "Git", "Terraform"]<br>}</p>
 
 
 ###
