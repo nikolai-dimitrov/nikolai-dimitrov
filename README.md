@@ -23,9 +23,9 @@
 ###
 
 <p>
-  {
-	languages: ["JavaScript", "Python"];
-	backend: {
+ <br> { </br>
+  <br> languages: ["JavaScript", "Python"]; </br>
+	 <br> backend: { </br>
 		frameworks: ["ExpressJS", "Django"];
 		libraries: ["Mongoose", "Django REST Framework"];
 	}
