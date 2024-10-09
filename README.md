@@ -18,12 +18,8 @@
 
 ###
 
-<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F1MG9obXRxY2p3enV1dTdndHN5NW9tYng1dWJsajllcHF6dzlmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp"  />
-
-###
-
-<div align="left">
-  <img height="130" src="https://res.cloudinary.com/dltjy2gzz/image/upload/v1728494372/Github%20Profile%20Images/Screenshot_2024-10-09_at_20.17.41_p1x3wa.png"  />
+<div align="center">
+  <img height="230" src="https://res.cloudinary.com/dltjy2gzz/image/upload/v1728494372/Github%20Profile%20Images/Screenshot_2024-10-09_at_20.17.41_p1x3wa.png"  />
 </div>
 
 ###
