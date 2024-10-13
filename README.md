@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I am passionate Full Stack Web Developer Student</h3>
+<h3 align="center">I am passionate Full Stack Web Developer</h3>
 
 ###
 
