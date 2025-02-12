@@ -4,7 +4,6 @@
 
 ###
 
-<h1 align="center">Hi👋, I am Nikolai Dimitrov</h1>
 
 ###
 
